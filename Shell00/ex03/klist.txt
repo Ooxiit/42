@@ -1,0 +1,5 @@
+Credentials cache: API:FC70F427-29A6-40CE-8261-E5A45A8C51EB
+        Principal: cferrero@42LYON.FR
+
+  Issued                Expires               Principal
+Aug 31 20:53:58 2021  Sep  1 20:53:58 2021  krbtgt/42LYON.FR@42LYON.FR

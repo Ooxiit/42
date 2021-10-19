@@ -1,6 +1,0 @@
-Credentials cache: API:7DB74D6F-33EC-4577-8116-3328AA4EAC5C
-        Principal: cferrero@42LYON.FR
-
-  Issued                Expires               Principal
-Aug 30 10:02:09 2021  Aug 31 10:02:09 2021  krbtgt/42LYON.FR@42LYON.FR
-Aug 30 10:02:12 2021  Aug 31 10:02:09 2021  HTTP/san-ssd.42lyon.fr@42LYON.FR
